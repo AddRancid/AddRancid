@@ -101,39 +101,9 @@ font-family: 'Rubik', sans-serif;
     border-color: aliceblue;
 }
 
-.Parrafo-inicial {
-    margin-top: 159px;
+.SemillasIndoor {
     display: flex;
-    position: absolute;
-    font-size: large;
-    font-variant-caps: unicase;
-    font-family: sans-serif;
-}
-
-.Pinicial {
-    color: aliceblue;
-}
-
-.ImagenSemillas {
-    display: flex;
-    width: 670px;
-    height: 300px;
-    position: absolute;
-    margin-top: 130px;
-}
-
-.ImagenPurple {
-    display: flex;
-    position: absolute;
-    width: 604px;
-    height: 300px;
-    margin-top: 130px;
-    margin-left: 678px;
-}
-
-.ParrafoVentas {
-    display: flex;
-    margin-top: 711px;
+    margin-top: 309px;
     justify-content: center;
     font-size: large;
     font-variant-caps: unicase;
@@ -142,7 +112,46 @@ font-family: 'Rubik', sans-serif;
     background: black;
 }
 
-.Semillas-en-venta {
+.Medicinal1 {
     display: flex;
-    justify-content: space-between;
+    margin-top: 10px;
+    background-color: black;
+    margin-right: 500px;
+    position: absolute;
+    flex-direction: column;
+}
+
+.Pamnesia {
+    color: aliceblue;
+    font-variant-caps: unicase;
+    margin-left: 91px;
+    margin-top: -91px;
+    margin-bottom: 33px;
+}
+
+.AuroraIndica {
+    display: flex;
+    margin-top: 138px;
+    background-color: black;
+    margin-right: 491px;
+    position: initial;
+    align-items: flex-end;
+    height: 121px;
+}
+
+.Paurora {
+    display: flex;
+    margin: -94px;
+    margin-left: 88px;
+    color: aliceblue;
+    font-variant-caps: unicase;
+    position: absolute;
+    margin-inline: 95px
+}
+
+.Medicinal2 {
+    background-color: black;
+    margin-right: 491px;
+    position: relative;
+
 }

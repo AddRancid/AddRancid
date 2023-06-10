@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(131, 121, 122);
+    font-family: 'Rubik', sans-serif;
+
+}
+
+font-family: 'Rubik', sans-serif;
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.img-profile {
+    margin: 100px;
+    position: relative;
+    margin-block-end: auto;
+    width: 300px;
+   border-style: ridge;
+}
+
+.img-content {
+    position: absolute;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+.description {
+    color: whitesmoke;
+    display: flex;
+    font-size: x-large;
+    MARGIN: 100px;
+    justify-content: space-around;
+    margin-top: -290px;
+    font-variant-caps: unicase
+}
+
+.DPIMG {
+    width: 180px;
+    display: flex;
+    position: absolute;
+    margin-left: 420px;
+    margin-top: -53px;
+}
+
+.SSEEDS {
+    width: 180px;
+    display: flex;
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 54px;
+    height: 103px;
+}
+
+.buddah {
+    width: 180px;
+    display: flex;
+    position: absolute;
+    margin-left: 608px;
+    margin-top: 54px;
+    height: 103px;
+}
+
+.Positronics {
+    width: 180px;
+    display: flex;
+    position: absolute;
+    margin-left: 608px;
+    margin-top: -53px;
+    height: 101px;
+}

@@ -71,3 +71,32 @@ font-family: 'Rubik', sans-serif;
     margin-top: -53px;
     height: 101px;
 }
+
+.SweetSeeds {
+    width: 180px;
+    display: flex;
+    position: absolute;
+    margin-left: 795px;
+    margin-top: -53px;
+    height: 101px;
+}
+
+.EvaSeeds{
+    width: 180px;
+    display: flex;
+    position: absolute;
+    margin-left: 795px;
+    margin-top: 54px;
+    height: 103px;
+}
+
+.Reprocann{
+    display: flex;
+    width: 300px;
+    position: absolute;
+    margin-left: 979px;
+    margin-top: -54px;
+    border-style: ridge;
+    height: 206px;
+    border-color: aliceblue;
+}
